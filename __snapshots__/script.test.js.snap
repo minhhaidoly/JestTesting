@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator - Snapshot Testing should match snapshot after calculation 1`] = `
+{
+  "currentOperand": 20,
+  "operation": undefined,
+  "previousOperand": "",
+}
+`;
